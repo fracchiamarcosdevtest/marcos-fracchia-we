@@ -1,0 +1,4 @@
+{"lprice":40049.4,"curr1":"BTC","curr2":"USD","dateTime":[2021,7,29,21,33,10,439000000]}
+{"lprice":40049.4,"curr1":"BTC","curr2":"USD","dateTime":[2021,7,29,21,33,20,770000000]}
+{"lprice":40049.4,"curr1":"BTC","curr2":"USD","dateTime":[2021,7,29,21,33,31,145000000]}
+{"lprice":40049.5,"curr1":"BTC","curr2":"USD","dateTime":[2021,7,29,21,33,41,441000000]}
